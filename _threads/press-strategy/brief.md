@@ -21,6 +21,12 @@ DELNEのプレスリリース全体ロードマップを作成。
 - 記者発表会の運営計画
 - 記者対応・問い合わせ対応
 
+## 既定モード
+
+**壁打ちモード** で進める ([`_threads/consulting-mode.md`](../consulting-mode.md) 参照)。
+ユーザー = シニアコンサルタント / 意思決定者、Claude = アナリスト兼スパーリングパートナー。
+決め打ちで答えない、質問先行、批判的検証、決定事項は明示。
+
 ## 必読ファイル
 
 - `CLAUDE.md`
@@ -28,6 +34,7 @@ DELNEのプレスリリース全体ロードマップを作成。
 - `projects/delne/marketing/strategy/compliance.md`
 - `projects/delne/marketing/strategy/brand-guide.md` (**作成され次第**)
 - `_threads/README.md`
+- `_threads/consulting-mode.md`
 - `_threads/active.md`
 - `_threads/press-strategy/log.md`
 

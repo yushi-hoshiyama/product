@@ -22,12 +22,19 @@ DELNEのブランド表現を統一するためのガイドラインを作成。
 - LP・SNSの具体的なデザイン作業
 - 配色の感覚論 (ガイドラインとしての形式化に集中)
 
+## 既定モード
+
+**壁打ちモード** で進める ([`_threads/consulting-mode.md`](../consulting-mode.md) 参照)。
+ユーザー = シニアコンサルタント / 意思決定者、Claude = アナリスト兼スパーリングパートナー。
+決め打ちで答えない、質問先行、批判的検証、決定事項は明示。
+
 ## 必読ファイル
 
 - `CLAUDE.md`
 - `projects/delne/product/summary.md` (特にコンセプト・3ペルソナ・コアバリュー)
 - `projects/delne/marketing/strategy/compliance.md` (配慮表現セクション)
 - `_threads/README.md`
+- `_threads/consulting-mode.md`
 - `_threads/active.md`
 - `_threads/brand-guide/log.md`
 - 既存LP (`lp.delne.jp`) の表現傾向 (可能な範囲で)

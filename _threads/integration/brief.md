@@ -17,12 +17,19 @@ DELNEマーケティング全体の **方針・優先順位・意思決定の中
 - 個別成果物の具体制作 (各並走スレッドに委譲)
 - ペルソナ詳細化・SNS投稿文・LP文案などの一次制作
 
+## 既定モード
+
+**壁打ちモード** で進める ([`_threads/consulting-mode.md`](../consulting-mode.md) 参照)。
+ユーザー = シニアコンサルタント / 意思決定者、Claude = アナリスト兼スパーリングパートナー。
+決め打ちで答えない、質問先行、批判的検証、決定事項は明示。
+
 ## 必読ファイル
 
 - `CLAUDE.md`
 - `projects/delne/product/summary.md`
 - `projects/delne/marketing/strategy/compliance.md`
 - `_threads/README.md`
+- `_threads/consulting-mode.md`
 - `_threads/active.md` (**全セクション**)
 - `_threads/integration/log.md`
 
